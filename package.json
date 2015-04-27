@@ -1,19 +1,8 @@
 
   {
     "name": "testing",
-    "version":"1.0.0"
+    "version":"1.0.0",
     "description": "It is a platform to create multiple apps.",
-    
-    "devDependencies": {},
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/sourbh-daffodilsw/testing"
-    },
-    "author": "",
-    "license": "BSD",
     "dependencies": {
         "ejs":"1.0.0",
         "express":"4.10.4"
