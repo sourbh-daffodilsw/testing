@@ -1,10 +1,22 @@
-
-  {
-    "name": "testing",
-    "version":"1.0.0",
-    "description": "It is a platform to create multiple apps.",
-    "dependencies": {
-        "ejs":"1.0.0",
-        "express":"4.10.4"
-     }
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "just for testing purpose",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sourbh-daffodilsw/testing.git"
+  },
+  "keywords": [
+    "testing"
+  ],
+  "author": "sourbh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sourbh-daffodilsw/testing/issues"
+  },
+  "homepage": "https://github.com/sourbh-daffodilsw/testing#readme"
 }
