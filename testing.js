@@ -6,7 +6,7 @@ var d = Q.defer();
 console.log("a >>>>>>"+a);
 console.log("b >>>>>>"+b);
 console.log("a+b >>>>"+sum(a,b));
-d.resovle();
+d.resolve();
 return d.promise;
 }
 
