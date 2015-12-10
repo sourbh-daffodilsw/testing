@@ -9,3 +9,6 @@ console.log("a+b >>>>"+sum(a,b));
 d.resovle();
 return d.promise;
 }
+
+
+module.exports = print;
