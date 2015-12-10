@@ -1,4 +1,4 @@
-var sum = require("privatemodule2");
+var sum = require("@applane/privatemodule2");
 var Q = require("q");
 
 var print = function(a,b){
